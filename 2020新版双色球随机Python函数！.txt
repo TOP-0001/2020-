@@ -1,0 +1,3 @@
+import xuanhao
+print xuanhao.getResultStr(33, 6)
+print xuanhao.getResultStr(16, 1)
